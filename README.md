@@ -1093,7 +1093,7 @@ private fun initializePlayer() {
 ```
 This is how the viewers will see their screen.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NIqR32ajQBc" target="_new"><img src="http://img.youtube.com/vi/NIqR32ajQBc/0.jpg" alt="Output" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NIqR32ajQBc" target="_new"><img src="http://img.youtube.com/vi/NIqR32ajQBc/0.jpg" alt="Output" border="10" /></a>
 
 # Run your App
 
